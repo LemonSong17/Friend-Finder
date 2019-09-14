@@ -1,5 +1,5 @@
 // Data structure that will store the friends data
-var friendsArray = [
+let friendsArray = [
 	{
 		name: 'Batman',
 		photo: 'https://theplaylist.net/wp-content/uploads/2018/05/the-dark-knight-batman-1200x520.jpg',
