@@ -12,6 +12,6 @@ The closest match will be the user with the least amount of difference.
 
 Displaying the closest match of the survey results.
 
-The Application is deployed on Heroku.
+The Application is deployed on Heroku:
 
-[I'm an inline-style link](https://friend-finder52.herokuapp.com/)
+[Click here!](https://friend-finder52.herokuapp.com/)
